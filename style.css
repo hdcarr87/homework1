@@ -1,0 +1,30 @@
+body{
+    background-color:red;
+}
+
+.block{
+    height:70px;
+    width:900px;
+    margin:auto;
+    background-color:blue;
+    text-align:center;
+}
+
+.txt{
+    padding-top:30px;
+}
+
+.section{
+    width:450px;
+    height:300px;
+    position:relative;
+    background-color:green;
+    margin: 0px auto;
+}
+.section1{
+    width:450px;
+    height:300px;
+    position:relative;
+    background-color:pink;
+    float:left;
+}
