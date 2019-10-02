@@ -9,7 +9,7 @@ body{
     text-align: center
 }
 
-header, nav, section, aside, and footer{
+header, nav, section, aside, footer {
     background-color: #ebebeb
 }
 
@@ -33,6 +33,7 @@ aside {
     height: 200px;
     margin-left: 10px;
     padding-top: 20px;
+    margin-bottom: 20px;
 
 }
 
@@ -41,6 +42,7 @@ section {
     width: 495px;
     height: 200px;
     padding-top: 20px;
+    margin-bottom: 20px;
 }
         
  #article {
@@ -74,8 +76,9 @@ section {
 
 footer {
     clear: both;
-    height: 65px;
-    width: 960px;
-    margin-top: 10px;
     overflow: auto;
+    margin-top: 50px;
+    padding-top: 10px;
+    height: 65px;
+
 }
